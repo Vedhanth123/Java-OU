@@ -1,3 +1,4 @@
+// Java program to send Array as a parameter to a function in Java
 import java.io.*;
 
 // creaing a class 
