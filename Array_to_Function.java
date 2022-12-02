@@ -1,6 +1,10 @@
 import java.io.*;
 
+// creaing a class 
+// Note: make sure to keep class name same as file name 
 public class Array_to_Function {
+    
+    // creating a function in java class
     public void function1(int[] array) {
         for(int i = 0; i < array.length; i ++)
         {
@@ -10,7 +14,8 @@ public class Array_to_Function {
 
     public static void main(String[] args) {
         
-        // creating instance of class
+        // creating instance of class 
+        // This is similar to creating a variable of a class
         GFG obj = new GFG();
 
         // creating a 1D and a 2D array
