@@ -1,3 +1,5 @@
+// There are deprecated classes these are not running on new version of java the logic is correct but the proram won't execute!!!!!!!!!!
+
 import java.util.*;
 
 // Observable allows others classes to observe this class's objects
