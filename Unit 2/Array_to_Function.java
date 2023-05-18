@@ -17,7 +17,7 @@ public class Array_to_Function {
         
         // creating instance of class 
         // This is similar to creating a variable of a class
-        GFG obj = new GFG();
+        Array_to_Function obj = new Array_to_Function();
 
         // creating a 1D and a 2D array
         int[] oneDimensionalArray = { 1, 2, 3, 4, 5 };
