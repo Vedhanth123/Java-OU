@@ -1,4 +1,4 @@
-// There are deprecated classes these are not running on new version of java the logic is correct but the proram won't execute!!!!!!!!!!
+// There are deprecated classes these are not running on new version of java the logic is correct but the program won't execute!!!!!!!!!!
 
 import java.util.*;
 
